@@ -1,0 +1,4 @@
+Hello world
+This is my text file
+I like to type, so I don't get bored
+Funny HA HA
